@@ -1,0 +1,212 @@
+.carousel-item{
+    width:100%;
+    height:600px;
+}
+#car1{
+    width:30%;
+    height:600px;
+}
+#trust{
+    padding-top: 50px;
+    margin: 20px;
+
+}
+#heading1{ 
+    margin:20px;
+    font-size: 22px;
+    color: #333333;
+    line-height: 2em;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    font-style: italic;
+    text-transform: none;
+    letter-spacing: .1em;
+}
+#grow1{
+    font-weight: 700;
+    margin-top: 20px;
+    font-size: 24px;
+    position: relative;
+    font-family:'Playfair Display', serif;
+    text-align:center;
+}
+#info{
+    font-family: 'Lato';
+    font-weight: 400;
+    letter-spacing: 0em;
+    line-height: 1.8;
+    color: #696969;
+    font-size: 15px;
+}
+#grow2{
+    font-weight: 700;
+    margin-top: 20px;
+    font-size: 24px;
+    position: relative;
+    font-family:'Playfair Display', serif;
+    text-align:center;
+}
+#info2{
+    font-family: 'Lato';
+    font-weight: 400;
+    letter-spacing: 0em;
+    line-height: 1.8;
+    color: #696969;
+    font-size: 15px;
+}
+#grow3{
+    font-weight: 700;
+    margin-top: 20px;
+    font-size: 24px;
+    position: relative;
+    font-family:'Playfair Display', serif;
+    text-align:center;
+}
+#info3{
+    font-family: 'Lato';
+    font-weight: 400;
+    letter-spacing: 0em;
+    line-height: 1.8;
+    color: #696969;
+    font-size: 15px;
+}
+#pg{
+    
+    max-width: 100%;
+    height: auto;
+    vertical-align: top;
+    border: 0;
+    box-sizing: inherit;
+}
+#hw{
+  
+    max-width: 100%;
+    height: auto;
+    vertical-align: top;
+    border: 0;
+    box-sizing: inherit;
+}
+#ww{
+    
+    max-width: 100%;
+    height: auto;
+    vertical-align: top;
+    border: 0;
+    box-sizing: inherit;
+}
+.btn {
+    border-color: rgb(149,179,89);
+    color:rgb(149,179,89);    
+    background-color: white;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.btn:hover {
+    background-color: rgb(149,179,89);
+    color: white;
+  }
+#bottle{
+    margin:20px;
+    position: relative;
+    box-sizing: border-box;
+    width:660px;
+   
+    padding-left: 200px;
+   
+}
+.newbottle{
+    width:45%;
+    position: absolute;
+    top:10px;
+    left:600px;
+}
+.bo{
+    margin:20px;
+    background-color:rgb(245,242,227);
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+  .image1 {
+   
+    top: 0;
+    left: 0;    
+  }
+  .image2 {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    
+  }
+  .image3{
+      width:130px;
+      margin-left: 25%;
+      margin-top: 10%;
+  }
+  .img1{
+      width:50px;
+      margin-left:35%;
+      margin-top:50%;
+  }
+  .centered{
+      color: rgb(149,179,89);
+        position: absolute;
+        top: 35%;
+        left: 50%;
+        transform: translate(-55%, -90%);
+        font-size: 28px;
+        font-style:italic;
+        font-family: 'Playfair';
+      
+  }
+  .newproducts{
+      margin-top: 100px;
+  }
+  .prod{
+      color:black;
+      font: size 24px;
+      top:30%;
+      
+  }
+  .text1{
+    color: rgb(149,179,89);
+      position: absolute;
+      top: 35%;
+      left: 20%;
+      transform: translate(-55%, -90%);
+      font-size: 24px;
+      font-style:italic;
+      font-family: 'Playfair';
+    
+}
+.text2{
+    color: black;
+      position: absolute;
+      top: 43%;
+      left: 24.5%;
+      transform: translate(-55%, -90%);
+      font-size: 44px;
+      font-weight: bold;
+      font-family:'Playfair Display', serif;
+
+}
+  .center1{
+    margin:20px;
+    color: black;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-30%, -30%);
+    font-size: 18px;
+    
+    font-family: 'Playfair';
+
+  }
+  .product-img{
+      
+      width: 10px;
+  }
+  
